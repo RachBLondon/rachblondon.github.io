@@ -1,0 +1,30 @@
+.skills {
+  width: 100%;
+}
+
+.col-3 {
+  width: 100%;
+  float:left;
+}
+
+.row:before,
+  .row:after {
+      content:"";
+      display: table ;
+      clear:both;
+  }
+
+
+
+@media all and (min-width: 500px) and (max-width: 700px) {
+  .col-3 {
+    width: 50%;
+  }
+}
+
+
+@media screen and (min-width: 641px) {
+  .col-3 {
+    width: 33.33%;
+  }
+}

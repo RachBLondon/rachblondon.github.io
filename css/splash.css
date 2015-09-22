@@ -1,0 +1,19 @@
+.splash {
+  background-image: url("https://images.unsplash.com/photo-1415201179613-bd037ff5eb29?q=80&fm=jpg&s=46a25087049ca6bdcff8390a342b9c59");
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height: 25em;
+
+}
+.splash-text {
+  text-align: center;
+  padding-top: 2em;
+
+}
+
+h1 {
+  font-family: 'Permanent Marker', arial;
+  font-size: 4em;
+}

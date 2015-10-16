@@ -7,3 +7,9 @@ h2, h3 {
 .img-elec {
   height: 246px;
 }
+
+h2 {
+  font-size: 2.5em;
+  font-weight: bold;
+
+}
